@@ -2,9 +2,9 @@
 - I am a student developer currently enrolled at Texas A&M University, Galveston.
 - I am *quite* interested in developing backends and tooling.
 - I have a vested interest in older computers and systems like the Commodore 64 and DOS.
-- Professionally, I have helped design database systems and was in the process of recreating an Access database from the ground up before the school year restarted.
-- Personally, I am currently working on a reference implementation in Cfor custom sprite format ([mhit](https://github.com/YourAverageYeet/mhit)), and a hand-written, 6502-assembly-based note-taking application for the C64 (not yet on GitHub).
-- I'm looking to collaborate on whatever I can help on, especially on backend-related things. I can *do* frontend, though this is usually through FLTK (and I do plan to learn GTK eventually).
+- Professionally, I have helped design database systems and was in the process of recreating an Access database from the ground up before the project was abandoned after I left for school.
+- Personally, I am currently working on a reference implementation in C for custom sprite format ([mhit](https://github.com/YourAverageYeet/mhit)), and a hand-written, 6502-assembly-based note-taking application for the C64 (not yet on GitHub).
+- I'm looking to collaborate on whatever I can help on, especially on backend-related things. I *can* do frontend, though this is mainly through FLTK with GTK being used *as needed*.
 - I know the following programming languages, listed in order of comfort and marked with how I learned them and where:
   1. **C** - Self-taught starting around 16 (2020).
   2. **C++** - Attempted self-teaching from 14 (2018) until I switched to C; massively expanded via TAMU's CSCE 120 course (Program Design and Concepts) in Fall 2025.
@@ -12,6 +12,15 @@
      **Python** - First encountered at eight, relearned in middle school with a college-level course taken in high school; reenforced in TAMU's ENGR 102 course (Engineering Lab I - Computation).
   4. **OCaml** - Learnt during TAMU's CSCE 314 course (Programming Languages) in Spring 2026.
   5. **Racket** - Learnt during TAMU's CSCE 314 in Spring 2026.
+  6. **Ruby** - Learnt during TAMU's CSCE 314 in Spring 2026
+  7. Finally, a list of languages I've fooled around in but not specifically learnt in no particular order:
+     - LOLCODE
+     - Fortran
+     - Pascal
+     - Lua
+     - Befunge
+     - Smalltalk
+     - Brainf***
 - How to reach me:
   1. Email: [mike2@tamu.edu](mailto:mike2@tamu.edu?subject=I%20saw%20you%20on%20GitHub%20and%20wished%20to%20reach%20out)
   2. Discord: @yeetusff
